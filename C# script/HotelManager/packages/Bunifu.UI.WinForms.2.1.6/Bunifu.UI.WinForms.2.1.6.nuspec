@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Bunifu.UI.WinForms</id>
+    <version>2.1.6</version>
+    <title>Bunifu.UI.WinForms</title>
+    <authors>BunifuLabs</authors>
+    <owners>BunifuLabs</owners>
+    <licenseUrl>https://www.nuget.org/packages/Bunifu.UI.WinForms/2.1.6/license</licenseUrl>
+    <projectUrl>https://bunifuframework.com/</projectUrl>
+    <iconUrl>https://api.nuget.org/v3-flatcontainer/bunifu.ui.winforms/2.1.6/icon</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Bunifu UI is a market-leading suite of ready-made controls that help you build beautiful .NET Windows Forms applications faster. For more info, please visit https://bunifuframework.com
+
+Once installed, please visit https://bit.ly/39XQOVr or https://kutt.it/3OGUYy for guidelines on how to install and activate Bunifu UI via NuGet.</description>
+    <summary>Create professional .NET applications with a ready-made suite of beautifully crafted and customizable controls.</summary>
+    <releaseNotes>Licensing: Fixed an issue with build-time activation.</releaseNotes>
+    <copyright>© 2020 Bunifu Technologies</copyright>
+    <tags>c# vb winforms controls .net bunifu ui bunifu-ui ui-controls</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.0" />
+    </dependencies>
+  </metadata>
+</package>
